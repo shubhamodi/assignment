@@ -1,0 +1,22 @@
+node_modules
+.env
+
+# Ignore node.js specific files and folders
+node_modules/
+.env
+.DS_Store
+*.log
+*.lock
+*.pid
+*.pem
+*.key
+*.out
+*.spec.js
+*.test.ts
+*.spec.ts
+*.js.map
+*.ts.map
+*.coverage
+*.test-results
+*.test-report
+*.test-report.xml

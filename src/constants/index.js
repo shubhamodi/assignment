@@ -1,0 +1,1 @@
+export const BoxTypes = ["word", "line", "paragraph", "block", "page"];     //types which are used in bounding box to extract text
