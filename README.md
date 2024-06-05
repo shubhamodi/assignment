@@ -40,6 +40,12 @@ fst is a backend server application built with Node.js. It provides functionalit
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/fst.git
-cd fst
+git clone https://github.com/shubhamodi/assignment.git
+cd assignment
 
+npm install
+npm run dev (if nodemon installed)
+
+or
+
+npm run start
