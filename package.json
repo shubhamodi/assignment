@@ -1,5 +1,5 @@
 {
-  "name": "Rest Api Assignment",
+  "name": "rest-api-assignment",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,7 +11,7 @@
     "docker:build": "docker build -t <your-dockerhub-username>/tesseract-ocr-server .",
     "docker:run": "docker run -p 3000:3000 <your-dockerhub-username>/tesseract-ocr-server"
   },
-  "author": "",
+  "author": "Shubham Modi",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.20.2",
